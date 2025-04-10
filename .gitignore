@@ -1,0 +1,11 @@
+__pycache__/
+
+HTML/
+
+data_isolarcloud_isolarcloud_all_inverter_master_(1).parquet
+
+energy_meter_data.parquet
+
+Solar_id_location_mapping.csv
+
+*.DS_Store
